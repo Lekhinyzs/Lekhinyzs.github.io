@@ -1,0 +1,17 @@
+/*Selector{ Property: valeu; }*/
+*{ text-align: right; }
+body{ background-image: url(background.PNG);
+background-size: cover; }
+ p { color: #8E2F5C; text-align: center; border:
+ 5px solid rgba( 255, 174, 170, 0.8); cursor: pointer;
+  }
+p { line-height: 50px;
+ font-style: inherit;
+ font-weight: bold;
+font-size: 20px;
+}
+img { float: right; }
+
+p{ color: pink; }
+li{ list-style: none; display: inline; }
+
